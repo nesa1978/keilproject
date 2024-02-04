@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../User"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"ds1302.h": "c"
+		}
+	}
+}
